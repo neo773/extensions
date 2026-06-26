@@ -1,0 +1,19 @@
+extensions/screenocr/swift/Sources/ScreenOCR/ScreenOCR.swift
+  s_cab6f403f54c3f::t_62b4e03985f378 66-71,76-82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "f769a28bd3ba01a170e3823e3406c7bed74fc3ea",
+  "prompts": {},
+  "sessions": {
+    "s_cab6f403f54c3f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c0e3456a-f5e6-4eee-8b5b-def5d2da5a04",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "neo773 <neo773@protonmail.com>"
+    }
+  }
+}
